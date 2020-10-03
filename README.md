@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Контакты
 
-You can use the [editor on GitHub](https://github.com/architectv/architectv.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+* Телефон: 8-988-104-19-72
+* Почта: a.vasyukov1@yandex.ru
+* Telegram: [@vasyukov1](https://t.me/vasyukov1)
+* Github: [https://github.com/architectv](https://github.com/architectv)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Образование
 
-### Markdown
+* МГТУ им. Н. Э. Баумана
+    * Факультет: ИУ
+    * Кафедра: 7 (Программная инженерия)
+    * Статус: студент бакалавриата
+    * Курс: 4
+    * Средний балл: 4.83
+* Технопарк@Mail.ru
+    * [Основы машинного обучения](https://park.mail.ru/curriculum/program/discipline/1047/) (2020 - н.в.)
+* Coursera
+    * [Разработка веб-сервисов на Go](https://coursera.org/share/440a18abb12c7b381d848574bf1f9961)
+    * [Гибкие методологии разработки высокотехнологичных продуктов](https://coursera.org/share/d8ec57161ca7bc2a287f4376e782bfff)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Проекты
 
-```markdown
-Syntax highlighted code block
+* [Менеджер задач Dao](https://github.com/architectv/DB-course-project-2020) (2020)
+  * Стек: _Python, Django, PostgreSQL_
+  * Описание: веб-приложение MPA, курсовой проект по базам данных
+* Трехмерное моделирование здания театра (2019)
+  * Стек: _C++, Qt_
+  * Описание: курсовой проект по компьютерной графике
+* Форум вопросов и ответов (2019)
+  * Стек: _Python, Django, SQLite_
+  * Описание: веб-приложение MPA, учебный проект основной программы Технопарк@Mail.ru
+* Telegram-бот "Бот Федот" (2018)
+  * Стек: _Python, SQLite_
+  * Описание: виртуальный гид по развлекательным мероприятиям и местам в крупнейших городах России ([видеопрезентация](https://www.youtube.com/watch?v=L7duSWRKdnY))
 
-# Header 1
-## Header 2
-### Header 3
+## Навыки
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/architectv/architectv.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Python, Django
+* Go
+* C/C++, Qt
+* SQL
+* Linux
+* Agile
