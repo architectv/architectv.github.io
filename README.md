@@ -14,15 +14,16 @@
     * Кафедра: 7 (Программная инженерия)
     * Статус: студент бакалавриата
     * Курс: 4
-    * Средний балл: 4.83
-* Технопарк@Mail.ru
-    * [Основы машинного обучения](https://park.mail.ru/curriculum/program/discipline/1047/) (2020 - н.в.)
+    * Средний балл: 4.87
 * Coursera
     * [Разработка веб-сервисов на Go](https://coursera.org/share/440a18abb12c7b381d848574bf1f9961)
     * [Гибкие методологии разработки высокотехнологичных продуктов](https://coursera.org/share/d8ec57161ca7bc2a287f4376e782bfff)
 
 ## Проекты
 
+* [Канбан-система Yak (Yet Another Kanban)](https://github.com/architectv/networking-course-project) (2020)
+  * Стек: _Go, Fiber, PostgreSQL_
+  * Описание: веб-приложение SPA, REST API, "Чистая Архитектура"
 * [Менеджер задач Dao](https://github.com/architectv/DB-course-project-2020) (2020)
   * Стек: _Python, Django, PostgreSQL_
   * Описание: веб-приложение MPA, курсовой проект по базам данных
@@ -39,8 +40,9 @@
 ## Навыки
 
 * Python, Django
-* Go
+* Go, Fiber
 * C/C++, Qt
-* SQL
+* SQL, PostgreSQL
 * Linux
+* Docker
 * Agile
